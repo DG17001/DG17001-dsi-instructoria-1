@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": false,
+		"lib": ["ES6","DOM","ES2017"],
+		"target": "ES5"
+	}
+}
