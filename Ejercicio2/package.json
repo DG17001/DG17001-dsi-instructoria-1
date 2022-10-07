@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "Programa que imita el comportamiento del comando de gnu cat",
+  "main": "cat.js",
+  "scripts": {
+    "precat": "tsc",
+    "cat": "node ./dist/cat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Magdiel Duran Guerra",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  }
+}

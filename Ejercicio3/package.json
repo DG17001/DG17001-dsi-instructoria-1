@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "Programa que imita el comportamiento del comando de gnu cp",
+  "main": "cp.js",
+  "scripts": {
+    "precat": "tsc cp.ts",
+    "cp": "node ./cp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Magdiel Duran Guerra",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  }
+}
