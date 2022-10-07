@@ -1,6 +1,6 @@
 # DG17001-dsi-instructoria-1
 
-## Paso 1: Instalar dependencias
+## Instalar dependencias
 Ejecute el siguiente comando adentro de cada carpeta en una consola para instalar todas las dependencias
 ```
 npm install
